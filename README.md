@@ -51,9 +51,8 @@
 
 | Layer | URL | Status |
 |-------|-----|--------|
-| 🖥️ **Frontend** | [insure-iq-green.vercel.app](https://insure-iq-green.vercel.app/) | ![Vercel](https://img.shields.io/website?url=https%3A%2F%2Finsure-iq-green.vercel.app%2F&style=flat-square&color=10b981) |
+| 🖥️ **Frontend** | [insure-iq-green.vercel.app](https://insure-iq-1jbn.vercel.app/) | ![Vercel](https://img.shields.io/website?url=https%3A%2F%2Finsure-iq-green.vercel.app%2F&style=flat-square&color=10b981) |
 | ⚡ **Backend API** | [insureiq.onrender.com](https://insureiq.onrender.com) | ![Render](https://img.shields.io/website?url=https%3A%2F%2Finsureiq.onrender.com%2Fhealth&style=flat-square&color=06b6d4) |
-| 🐳 **Docker Hub** | [ragas111/insureiq-backend](https://hub.docker.com/repository/docker/ragas111/insureiq-backend/general) | ![Docker](https://img.shields.io/docker/image-size/ragas111/insureiq-backend?style=flat-square&color=6366f1) |
 | 📖 **API Docs** | [insureiq.onrender.com/docs](https://insureiq.onrender.com/docs) | Swagger UI |
 
 ---
